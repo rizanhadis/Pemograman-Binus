@@ -13,3 +13,9 @@ p {
     font-family: 'Courier';
     font-size: 160%;
 }
+
+p {
+    border: 5px solid red;
+    margin: 100px;
+    padding: 50px;
+}
